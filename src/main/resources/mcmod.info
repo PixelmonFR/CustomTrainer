@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "pixelmonfrtrainer",
+    "name": "PixelmonFR trainer",
+    "description": "pixelmonfr trainer for PixelmonFR",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "zendraft"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
